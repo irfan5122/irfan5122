@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Python Developer & Automation Engineer** focused on building **practical, real-world software** rather than just demos.
+I’m a **Python Developer & Automation Engineer** focused on building **practical, real-world software**.
 
-- 🐍 Python-focused developer  
-- 🖥️ Desktop GUI apps using **PyQt6 & Tkinter**  
-- 🤖 AI-powered tools (NLP with **DistilRoBERTa**)  
+- 🐍 Python automation & scripting  
+- 🖥️ Desktop GUI apps (PyQt6, Tkinter)  
+- 🤖 AI-powered tools (NLP with DistilRoBERTa)  
 - 🌐 Web automation & scraping  
-- ⚙️ Task automation on Windows  
+- ⚙️ Windows workflow automation  
 
-📌 I believe in **clean code, usable tools, and learning by building**.
+I prefer **building useful tools** over chasing numbers.
 
 ---
 
@@ -33,68 +33,40 @@ I’m a **Python Developer & Automation Engineer** focused on building **practic
 ## 🚀 Featured Projects
 
 ### 🔹 Portfolio Website
-Personal developer portfolio showcasing projects, skills, and contact options.
-
-- Responsive static website  
-- Hosted on Firebase  
-- Clean UI with animations  
-
-🔗 Repo:  
-https://github.com/irfan5122/portfolio_website
+Personal portfolio showcasing projects, skills, and contact options.  
+🔗 https://github.com/irfan5122/portfolio_website
 
 ---
 
 ### 🔹 AI-Powered Task Automation Tool
-Desktop automation tool that converts **natural language commands into actions**.
-
-- PyQt6-based GUI  
-- NLP model (DistilRoBERTa) integration  
-- Designed for Windows task automation  
-
-🔗 Repo:  
-https://github.com/irfan5122/ai_task_automation
+Desktop automation tool that converts **natural language commands into actions**.  
+🔗 https://github.com/irfan5122/ai_task_automation
 
 ---
 
 ### 🔹 Movie Database Manager
-GUI-based application to manage personal movie & series collections.
-
-- Python + Tkinter  
-- MySQL database backend  
-- CSV export functionality  
-
-🔗 Repo:  
-https://github.com/irfan5122/movie-database-manager
+GUI application to manage movies & series with database support.  
+🔗 https://github.com/irfan5122/movie-database-manager
 
 ---
 
-### 🔹 WhatsApp Web Automation (Legacy Project)
-Browser automation tool built as a learning project.
-
-- Python + Selenium  
-- Tkinter GUI  
-- Stores browser session for repeated use  
-
-🔗 Repo:  
-https://github.com/irfan5122/whatsapp-web-automation
+### 🔹 WhatsApp Web Automation (Legacy)
+Learning project for browser automation using Selenium.  
+🔗 https://github.com/irfan5122/whatsapp-web-automation
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfan5122&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=irfan5122&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfan5122&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: https://irfan-builds.web.app/  
+- 🌍 Portfolio: https://irfan-builds.web.app  
 - 💼 LinkedIn: https://www.linkedin.com/in/ahmed-irfan-n/  
 - 🐙 GitHub: https://github.com/irfan5122  
 
@@ -102,8 +74,4 @@ https://github.com/irfan5122/whatsapp-web-automation
 
 <p align="center">
   <i>“Build useful things. Learn deeply. Stay consistent.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you like my work, feel free to star some repositories!
 </p>
