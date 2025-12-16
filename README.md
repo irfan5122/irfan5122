@@ -32,27 +32,27 @@ I prefer **building useful tools** over chasing numbers.
 
 ## 🚀 Featured Projects
 
-### 🔹 Portfolio Website
-Personal portfolio showcasing projects, skills, and contact options.  
-🔗 https://github.com/irfan5122/portfolio_website
-
----
 
 ### 🔹 AI-Powered Task Automation Tool
 Desktop automation tool that converts **natural language commands into actions**.  
-🔗 https://github.com/irfan5122/ai_task_automation
+🔗 https://github.com/irfan5122/AI_POWERED_TASK_AUTOMATION
 
 ---
 
 ### 🔹 Movie Database Manager
 GUI application to manage movies & series with database support.  
-🔗 https://github.com/irfan5122/movie-database-manager
+🔗 https://github.com/irfan5122/MovieDB-Manager
 
 ---
 
 ### 🔹 WhatsApp Web Automation (Legacy)
 Learning project for browser automation using Selenium.  
 🔗 https://github.com/irfan5122/whatsapp-web-automation
+
+
+### 🔹 Portfolio Website
+Personal portfolio showcasing projects, skills, and contact options.  
+🔗 https://github.com/irfan5122/portfolio_website
 
 ---
 
