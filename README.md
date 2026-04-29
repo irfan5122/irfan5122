@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Irfan N
+#  Hi, I'm Ahmed Irfan N
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Automation+Engineer;GUI+Application+Builder;AI-powered+Tool+Developer" alt="Typing SVG" />
 
@@ -8,21 +8,21 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I’m a **Python Developer & Automation Engineer** focused on building **practical, real-world software**.
 
-- 🐍 Python automation & scripting  
-- 🖥️ Desktop GUI apps (PyQt6, Tkinter)  
-- 🤖 AI-powered tools (NLP with DistilRoBERTa)  
-- 🌐 Web automation & scraping  
-- ⚙️ Windows workflow automation  
+-  Python automation & scripting  
+-  Desktop GUI apps (PyQt6, Tkinter)  
+-  AI-powered tools (NLP with DistilRoBERTa)  
+-  Web automation & scraping  
+-  Windows workflow automation  
 
 I prefer **building useful tools** over chasing numbers.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,qt,mysql,git,github,linux" />
@@ -30,7 +30,7 @@ I prefer **building useful tools** over chasing numbers.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 
 ### 🔹 AI-Powered Task Automation Tool
@@ -56,7 +56,7 @@ Personal portfolio showcasing projects, skills, and contact options.
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfan5122&theme=tokyo-night&hide_border=true" />
@@ -64,11 +64,11 @@ Personal portfolio showcasing projects, skills, and contact options.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-- 🌍 Portfolio: https://irfan-builds.web.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-irfan-n/  
-- 🐙 GitHub: https://github.com/irfan5122  
+-  Portfolio: https://irfan-builds.web.app  
+-  LinkedIn: https://www.linkedin.com/in/ahmed-irfan-n/  
+-  GitHub: https://github.com/irfan5122  
 
 ---
 
